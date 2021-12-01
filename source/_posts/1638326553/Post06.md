@@ -1,5 +1,6 @@
 ---
-title: Post06
-date: 2021-12-02 00:06:00
+title: Post 06
+date: 2021-11-06 00:00:00
+tag: GenPy
 ---
 content 06 06 06
