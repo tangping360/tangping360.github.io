@@ -24,3 +24,8 @@ tags: VTuber
 * 即使是 Virtual 但更換中之人是禁物。
 
 無論今後她及團隊前路如何，我對他們致以最真摰的祝福。
+
+## Links
+
+[官方網站](https://kizunaai.com/)
+[Wikipedia](https://en.wikipedia.org/wiki/Kizuna_AI)
