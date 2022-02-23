@@ -22,3 +22,5 @@ tags: [動作,英文,日文,日文]
 
 總結來說，我認為這是 PS4 必買的遊戲之一。
 遊戲連 DLC 的完全版在 Steam 賣 398 港元，是非常吸引的價錢。當然大家可以等特價才手入。
+
+[Steam](https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/)
