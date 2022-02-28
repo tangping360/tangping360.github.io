@@ -1,7 +1,7 @@
 ---
 title: 《Horizon Zero Dawn》
 date: 2022-02-15 13:50:07
-tags: [動作,英文,日文,日文]
+tags: [動作,英文,中文,日文]
 ---
 ## 微劇透評論
 
@@ -20,7 +20,7 @@ tags: [動作,英文,日文,日文]
 道具的多樣性亦令戰術變得靈活。打怪雖有難度，但也是一種享受。
 可惜不能像 Pokemon 那樣收集機械獸，所有機械獸都只能現捉現用。
 
-總結來說，我認為這是 PS4 必買的遊戲之一。
+總結來說，這是 PS4 必買的遊戲之一。
 遊戲連 DLC 的完全版在 Steam 賣 398 港元，是非常吸引的價錢。當然大家可以等特價才手入。
 
 [Steam](https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/)
