@@ -58,7 +58,7 @@ tags: [色情,視覺小說,中文,英文,日文]
 
 如果想懷舊又或者想考古，可以考慮手入這個遊戲。
 但如果想拔又或者想玩遊戲，《同級生Remake》恐怕跟不上時代的步伐。
-遊戲在 Steam 賣 HKD 89，但在日本 DLSite 卻居然賣 10800 日元，差不多 7.5 倍價錢。
+遊戲在 Steam 賣 HKD 89，但在日本 DLSite 卻居然賣 8800 日元，差不多 6 倍價錢。
 到底 DLSite 版本會不會像 Steam 版本那樣自肅，我沒打算花錢去試。
 
 [Steam 中英文版](https://store.steampowered.com/app/1689910/Remake/)
