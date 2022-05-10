@@ -55,3 +55,9 @@ tags: [運動,中文,英文,日文]
 
 據網上的資料，未來除了有哥爾夫球，也可能會加入藍球和閃避球，令人期待。
 不過我希望會有單車和划船。
+
+## Extra
+
+玩《Nintendo Switch Sports》的時候，不知為何想起《Go Vacation》。
+我其實希望能像《Go Vacation》那樣，逛一下 Spocco Square。
+又或者，如果《Go Vacation》能加入上網功能，可以在滑雪，駕車時看到其他玩家。在居家抗疫期間會成為神遊戲。
